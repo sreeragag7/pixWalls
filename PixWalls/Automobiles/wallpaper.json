@@ -61,7 +61,7 @@
             "author":"wallsplash",
             "url":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Automobiles%201.jpg",
             "thumbnail":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Automobiles%201.jpg",
-            "collections":"featured,landscapes,people,city"
+            "collections":"featured,landscapes,people,cityscape"
         },
         {
             "name":"Wallsplash 2",
@@ -70,14 +70,14 @@
             "thumbnail":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Automobiles%2017.png",
             "dimensions":"3200x2560",
             "copyright":"Free (do whatever you want)",
-            "collections":"featured,landscapes,people,food"
+            "collections":"featured,landscapes,people,nature"
         },
         {
             "name":"Wallsplash 3",
             "author":"wallsplash",
             "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
             "copyright":"Free (do whatever you want)",
-            "collections":"featured,food,people"
+            "collections":"featured,food,people,patetrn"
         },
 	{
 	"name": "Automobiles 10",
