@@ -6,10 +6,54 @@
             "preview_thumbnail_url":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Automobiles%2017.png"
         },
         {
-            "name":"City",
-            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
+            "name":"Cityscape",
+            "preview_url":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Cityscape/Cityscape%2012.png",
+		"preview_thumbnail_url":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Cityscape/Cityscape%2012.png"
+        },
+	{
+            "name":"Device",
+            "preview_url":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Device/LG%20G6%203.png",
+		"preview_thumbnail_url":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Device/LG%20G6%203.png"
+        },
+        {
+            "name":"Minimalistic",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
+		"preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
         }
+		{
+            "name":"Nature",
+            "preview_url":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2029.jpg",
+	    "preview_thumbnail_url":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2029.jpg"
+        },
+        {
+            "name":"Others",
+            "preview_url":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%2014.png",
+	"preview_thumbnail_url":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%2014.png"
+        },
+	{
+            "name":"Pattern",
+            "preview_url":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Pattern/Pattern%204.png",
+		"preview_thumbnail_url":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Pattern/Pattern%204.png"
+        },
+        {
+            "name":"People",
+            "preview_url":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/People/People%2010.png",
+	"preview_thumbnail_url":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/People/People%2010.png"
+        },
+		{
+            "name":"Space",
+            "preview_url":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Space/Space%201.jpg",
+	"preview_thumbnail_url":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Space/Space%201.jpg"
+        },
+        {
+            "name":"Unsaturated",
+            "preview_url":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Unsaturated/Unsaturated%2012.png",
+		"preview_thumbnail_url":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Unsaturated/Unsaturated%2012.png"
+        },
+        {
+            "name":"Wildlife",
+            "preview_url":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Wildlife/Wildlife%201.jpg",
+	"preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
     ],
     "Wallpapers":[
         {
