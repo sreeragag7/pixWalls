@@ -6,68 +6,23 @@
             "preview_thumbnail_url":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Automobiles%2017.png"
         },
         {
-            "name":"Cityscape",
-            "preview_url":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Cityscape/Cityscape%2012.png",
-		"preview_thumbnail_url":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Cityscape/Cityscape%2012.png"
-        },
-	{
-            "name":"Device",
-            "preview_url":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Device/LG%20G6%203.png",
-		"preview_thumbnail_url":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Device/LG%20G6%203.png"
-        },
-        {
-            "name":"Minimalistic",
-            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
-		"preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
-        }
-		{
-            "name":"Nature",
-            "preview_url":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2029.jpg",
-	    "preview_thumbnail_url":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2029.jpg"
-        },
-        {
-            "name":"Others",
-            "preview_url":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%2014.png",
-	"preview_thumbnail_url":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%2014.png"
-        },
-	{
-            "name":"Pattern",
-            "preview_url":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Pattern/Pattern%204.png",
-		"preview_thumbnail_url":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Pattern/Pattern%204.png"
-        },
-        {
-            "name":"People",
-            "preview_url":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/People/People%2010.png",
-	"preview_thumbnail_url":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/People/People%2010.png"
-        },
-		{
-            "name":"Space",
-            "preview_url":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Space/Space%201.jpg",
-	"preview_thumbnail_url":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Space/Space%201.jpg"
-        },
-        {
-            "name":"Unsaturated",
-            "preview_url":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Unsaturated/Unsaturated%2012.png",
-		"preview_thumbnail_url":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Unsaturated/Unsaturated%2012.png"
-        },
-        {
             "name":"Wildlife",
             "preview_url":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Wildlife/Wildlife%201.jpg",
-	"preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+	    "preview_thumbnail_url":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Wildlife/Wildlife%201.jpg"
     ],
     "Wallpapers":[
         {
             "name":"Wallsplash 1",
             "author":"wallsplash",
             "url":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Automobiles%201.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Automobiles%201.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Thumbs/tn_Automobiles%201.jpg",
             "collections":"featured,landscapes,people,cityscape"
         },
         {
             "name":"Wallsplash 2",
             "author":"wallsplash",
             "url":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Automobiles%2017.png",
-            "thumbnail":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Automobiles%2017.png",
+            "thumbnail":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Thumbs/tn_Automobiles%2017.png",
             "dimensions":"3200x2560",
             "copyright":"Free (do whatever you want)",
             "collections":"featured,landscapes,people,nature"
@@ -83,7 +38,7 @@
 	"name": "Automobiles 10",
 	"author": "Rutwik Patel",
 	"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Automobiles%2010.png",
-	"thumbnail":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Automobiles%2010.png",
+	"thumbnail":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Thumbs/tn_Automobiles%2010.png",
 	"dimensions": "1080 x 1920",
 	"collections":"featured,automobiles,landscapes"
 	},
@@ -91,7 +46,7 @@
 	"name": "Automobiles 11",
 	"author": "Rutwik Patel",
 	"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Automobiles%2011.png",
-	"thumbnail":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Automobiles%2011.png",
+	"thumbnail":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Thumbs/tn_Automobiles%2011.png",
 	"dimensions": "1080 x 1920",
 	"collections":"featured,automobiles,landscapes"
 	},
@@ -99,7 +54,7 @@
 	"name": "Automobiles 12",
 	"author": "Rutwik Patel",
 	"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Automobiles%2012.png",
-	"thumbnail":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Automobiles%2012.png",
+	"thumbnail":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Thumbs/tn_Automobiles%2012.png",
 	"dimensions": "1080 x 1920",
 	"collections":"featured,automobiles,landscapes"
 	}
