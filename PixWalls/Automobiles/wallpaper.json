@@ -34,6 +34,30 @@
             "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
             "copyright":"Free (do whatever you want)",
             "collections":"featured,food,people"
-        }
+        },
+		{
+			"name": "Automobiles 10",
+			"author": "Rutwik Patel",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Automobiles%2010.png",
+			"thumbnail":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Automobiles%2010.png",
+			"dimensions": "1080 x 1920",
+			"collections":"featured,automobiles"
+		},
+		{
+			"name": "Automobiles 11",
+			"author": "Rutwik Patel",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Automobiles%2011.png",
+			"thumbnail":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Automobiles%2011.png",
+			"dimensions": "1080 x 1920",
+			"collections":"featured,automobiles"
+		},
+		{
+			"name": "Automobiles 12",
+			"author": "Rutwik Patel",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Automobiles%2012.png",
+			"thumbnail":"https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Automobiles%2012.png",
+			"dimensions": "1080 x 1920",
+			"collections":"featured,automobiles"
+		}
     ]
 }
