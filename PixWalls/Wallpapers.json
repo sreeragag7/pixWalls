@@ -18,7 +18,7 @@
             {
                 "name": "Others"
             },
-			{
+	    {
                 "name": "Pattern"
             },
             {
@@ -26,6 +26,9 @@
             },
             {
                 "name": "Space"
+            },
+            {
+                "name": "Superhero"
             },
             {
                 "name": "Unsaturated"
@@ -2741,7 +2744,7 @@
 		},
 		{
 			"name": "Minimalistic 79",
-			"author": "Nick Nice",
+			"author": "Jeremy for Life",
 			"url": "hhttps://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%2079.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Minimalistic/Minimalistic%2079.jpg",
 			"dimensions": "1080 x 1920",
@@ -2834,6 +2837,86 @@
 			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%2052.jpeg",
 			"dimensions": "1080 x 1920",
 			"category":"others"
+		},
+		{
+			"name": "Superhero 1",
+			"author": "Sdev99",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Superhero/Superhero%201.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Superhero/Superhero%201.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"superhero"
+		},
+		{
+			"name": "Superhero 2",
+			"author": "Sdev99",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Superhero/Superhero%202.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Superhero/Superhero%202.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"superhero"
+		},
+		{
+			"name": "Superhero 3",
+			"author": "Sdev99",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Superhero/Superhero%203.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Superhero/Superhero%203.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"superhero"
+		},
+		{
+			"name": "Superhero 4",
+			"author": "Sdev99",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Superhero/Superhero%204.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Superhero/Superhero%204.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"superhero"
+		},
+		{
+			"name": "Superhero 5",
+			"author": "Sdev99",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Superhero/Superhero%205.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Superhero/Superhero%205.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"superhero"
+		},
+		{
+			"name": "Superhero 6",
+			"author": "Sdev99",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Superhero/Superhero%206.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Superhero/Superhero%206.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"superhero"
+		},
+		{
+			"name": "Cityscape 22",
+			"author": "Duncan Pringle",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Cityscape/Cityscape%2022.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Cityscape/Cityscape%2022.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"cityscape"
+		},
+		{
+			"name": "Cityscape 23",
+			"author": "Jeremy for Life",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Cityscape/Cityscape%2023.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Cityscape/Cityscape%2023.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"cityscape"
+		},
+		{
+			"name": "People 17",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/People/People%2017.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/People/People%2017.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"people"
+		},
+		{
+			"name": "Unsaturated 18",
+			"author": "Jeremy for Life",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Unsaturated/Unsaturated%2018.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Unsaturated/Unsaturated%2018.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"unsaturated"
 		}
 	
 	]
