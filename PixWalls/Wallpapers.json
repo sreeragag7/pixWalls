@@ -3343,7 +3343,7 @@
 			"category":"others"
 		},
 		{
-			"name": "Nature 26",
+			"name": "Unsaturated 26",
 			"author": "Claudio Felicetti",
 			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Unsaturated/Unsaturated%2026.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Unsaturated/Unsaturated%2026.jpg",
@@ -3351,7 +3351,7 @@
 			"category":"unsaturated"
 		},
 		{
-			"name": "Nature 27",
+			"name": "Unsaturated 27",
 			"author": "Claudio Felicetti",
 			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Unsaturated/Unsaturated%2027.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Unsaturated/Unsaturated%2027.jpg",
@@ -3359,7 +3359,7 @@
 			"category":"unsaturated"
 		},
 		{
-			"name": "Nature 28",
+			"name": "Unsaturated 28",
 			"author": "Claudio Felicetti",
 			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Unsaturated/Unsaturated%2028.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Unsaturated/Unsaturated%2028.jpg",
@@ -3367,7 +3367,7 @@
 			"category":"unsaturated"
 		},
 		{
-			"name": "Nature 29",
+			"name": "Unsaturated 29",
 			"author": "Claudio Felicetti",
 			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Unsaturated/Unsaturated%2029.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Unsaturated/Unsaturated%2029.jpg",
@@ -3375,12 +3375,20 @@
 			"category":"unsaturated"
 		},
 		{
-			"name": "Nature 30",
+			"name": "Unsaturated 30",
 			"author": "Nick Nice",
 			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Unsaturated/Unsaturated%2030.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Unsaturated/Unsaturated%2030.jpg",
 			"dimensions": "1080 x 1920",
 			"category":"unsaturated"
+		},
+		{
+			"name": "Others 61",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%2061.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%2061.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"others"
 		}
 	
 	]
