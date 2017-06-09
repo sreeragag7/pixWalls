@@ -4040,6 +4040,78 @@
 			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Unsaturated/Unsaturated%2032.png",
 			"dimensions": "1440 x 2560",
 			"category":"unsaturated"
+		},
+		{
+			"name": "OnePlus 5 1",
+			"author": "OnePlus",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Device/OnePlus%205%201.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Device/OnePlus%205%201.jpg",
+			"dimensions": "1440 x 2560",
+			"category":"device"
+		},
+		{
+			"name": "OnePlus 5 2",
+			"author": "OnePlus",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Device/OnePlus%205%202.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Device/OnePlus%205%202.jpg",
+			"dimensions": "1440 x 2560",
+			"category":"device"
+		},
+		{
+			"name": "OnePlus 5 3",
+			"author": "OnePlus",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Device/OnePlus%205%203.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Device/OnePlus%205%203.jpg",
+			"dimensions": "1440 x 2560",
+			"category":"device"
+		},
+		{
+			"name": "OnePlus 5 4",
+			"author": "OnePlus",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Device/OnePlus%205%204.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Device/OnePlus%205%204.jpg",
+			"dimensions": "1440 x 2560",
+			"category":"device"
+		},
+		{
+			"name": "OnePlus 5 5",
+			"author": "OnePlus",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Device/OnePlus%205%205.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Device/OnePlus%205%205.jpg",
+			"dimensions": "1440 x 2560",
+			"category":"device"
+		},
+		{
+			"name": "OnePlus 5 6",
+			"author": "OnePlus",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Device/OnePlus%205%206.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Device/OnePlus%205%206.jpg",
+			"dimensions": "1440 x 2560",
+			"category":"device"
+		},
+		{
+			"name": "OnePlus 5 7",
+			"author": "OnePlus",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Device/OnePlus%205%207.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Device/OnePlus%205%207.jpg",
+			"dimensions": "1440 x 2560",
+			"category":"device"
+		}
+		{
+			"name": "Others White Casatte",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%2063.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%2063.jpg",
+			"dimensions": "1440 x 2560",
+			"category":"others"
+		},
+		{
+			"name": "Others Dark Bulb",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%2064.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%2064.jpg",
+			"dimensions": "1440 x 2560",
+			"category":"others"
 		}
 	
 	]
