@@ -4112,6 +4112,70 @@
 			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%2064.jpg",
 			"dimensions": "1440 x 2560",
 			"category":"others"
+		},
+		{
+			"name": "Automobiles Steering Wheel",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Automobiles%2025.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Automobiles%2025.jpeg",
+			"dimensions": "1440 x 2560",
+			"category":"automobiles"
+		},
+		{
+			"name": "Automobiles Bike Racimg",
+			"author": "Reshad Abd",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Automobiles%2026.png",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Automobiles%2026.png",
+			"dimensions": "1440 x 2560",
+			"category":"automobiles"
+		},
+		{
+			"name": "Automobiles Evening car",
+			"author": "Rutwik Patel",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Automobiles%2027.png",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Automobiles%2027.png",
+			"dimensions": "1440 x 2560",
+			"category":"automobiles"
+		},
+		{
+			"name": "Automobiles Water plane",
+			"author": "Rutwik Patel",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Automobiles%2028.png",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Automobiles/Automobiles%2028.png",
+			"dimensions": "1440 x 2560",
+			"category":"automobiles"
+		},
+		{
+			"name": "Cityscape Triangular Building",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Cityscape/Cityscape%2027.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Cityscape/Cityscape%2027.jpeg",
+			"dimensions": "1440 x 2560",
+			"category":"cityscape"
+		},
+		{
+			"name": "Cityscape Building Glass",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Cityscape/Cityscape%2028.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Cityscape/Cityscape%2028.jpeg",
+			"dimensions": "1440 x 2560",
+			"category":"cityscape"
+		},
+		{
+			"name": "Cityscape Dark building",
+			"author": "Rutwik Patel",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Cityscape/Cityscape%2029.png",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Cityscape/Cityscape%2029.png",
+			"dimensions": "1440 x 2560",
+			"category":"cityscape"
+		},
+		{
+			"name": "Cityscape On the Edge",
+			"author": "Rutwik Patel",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Cityscape/Cityscape%2030.png",
+			"thumbUrl": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Cityscape/Cityscape%2030.png",
+			"dimensions": "1440 x 2560",
+			"category":"cityscape"
 		}
 	
 	]
